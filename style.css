@@ -1,4 +1,14 @@
+body{
+    dackgrond:#111;
+    color:white;
+    font-family:sans-serif;
+}
 h1{
     color:aqua;
     text-align:center;
+} 
+p{
+    text-align:center;
+    
+
 }
